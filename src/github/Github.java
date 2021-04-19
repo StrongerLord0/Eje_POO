@@ -7,7 +7,7 @@ public class Github {
        
         System.out.println("Hola grupo de POO");
         System.out.println("Jajaja a ver");
-        System.out.println("Ajajaja");
+        System.out.println("Modificando");
     }
     
 }
